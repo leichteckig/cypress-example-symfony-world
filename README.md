@@ -15,3 +15,7 @@ In my session, I want to introduce Cypress to you and explore its possibilities 
 You can find my slides here: https://speakerdeck.com/leichteckig/symfony-meets-cypress-e2e-testing-for-symfony-developers
 
 API example: https://github.com/leichteckig/cypress-intro-symfony-uk/blob/main/cypress/integration/symfony/3-find-elephpant.spec.js
+
+Talk on flaky tests: https://www.youtube.com/watch?v=tf4tQKDcww0&feature=youtu.be
+
+Shopware project with Gitlab configuration and all this stuff: https://github.com/shopware/platform
